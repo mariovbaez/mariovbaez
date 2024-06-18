@@ -1,6 +1,5 @@
 - 👋 Hello, I’m Mario Luis. I have many passions ranging from martial arts to creating all sorts of music.
 - 🗣️ I was born in the Dominican Republic, therefore Spanish is my native language. However, I'm very fluent in English.
-- 🌱 I’m currently learning PowerBI and Python, while strengthening my knowledge on R and SQL. 
 
 <!---
 mariovbaez/mariovbaez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
